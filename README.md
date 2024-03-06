@@ -1,4 +1,4 @@
-# Olá! Eu sou Gabriel Cardoso 👋
+# É um prazer te ver por aqui 👋
 
 ## Sobre Mim
 
