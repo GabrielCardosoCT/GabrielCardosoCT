@@ -1,8 +1,8 @@
-# Olá! Eu sou [Gabriel Cardoso] 👋
+# Olá! Eu sou Gabriel Cardoso 👋
 
 ## Sobre Mim
 
-Olá! Meu nome é [Gabriel] e sou estudante de Análise e Desenvolvimento de Sistemas. Tenho uma paixão por resolver problemas complexos e transformar ideias em código. Atualmente, estou focado no desenvolvimento utilizando a linguagem C# e a engine Unity. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
+Olá! Meu nome é Gabriel, e sou estudante de Análise e Desenvolvimento de Sistemas. Tenho uma paixão por resolver problemas complexos e transformar ideias em código. Atualmente, estou focado no desenvolvimento utilizando a linguagem C# e a engine Unity. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
 
 ## O Que Estou Fazendo Atualmente
 
