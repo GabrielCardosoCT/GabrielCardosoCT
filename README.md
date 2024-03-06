@@ -19,7 +19,7 @@ Olá! Meu nome é Gabriel, e sou estudante de Análise e Desenvolvimento de Sist
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielCardosoCT&show_icons=true)
 
 ## Entre em Contato
 
